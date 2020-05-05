@@ -14,6 +14,7 @@ public class Main {
 
         Voter restriction = new Person("Gopal", 14);
         System.out.println("name: " + restriction.name());
+        System.out.println("name: " + person.getName());
 
 
     }
